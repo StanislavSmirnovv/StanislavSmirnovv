@@ -1,1 +1,3 @@
 - 👋 Hi, I’m @StanislavSmirnov
+- 💻 I'm beginner Frontend-Developer
+- 📖 I'm currently learning JavaScrip, HTML, CSS, React
