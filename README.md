@@ -9,3 +9,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavSmirnovv)](https://github.com/anuraghazra/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/StanislavSmirnovv/badges/small)](https://www.codewars.com/users/StanislavSmirnovv)
